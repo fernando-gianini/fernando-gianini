@@ -1,42 +1,38 @@
 # 👋 Olá! Eu sou o Fernando Gianini
 
-🎯 Em transição de carreira com foco em Qualidade de Software, Automação de Testes e Inteligência Artificial.
-💻 Estudante de Análise e Desenvolvimento de Sistemas, com experiência em metodologias ágeis e visão sistêmica de QA e desenvolvimento.
-🤖 Apaixonado por tecnologia, criei a marca AI! Nando para compartilhar conhecimento, projetos e o dia a dia de um eterno aprendiz no mundo tech!
+🎯 Em transição de carreira com foco em Qualidade de Software, Automação de Testes, Desenvolvimento e Inteligência Artificial.  
+💻 Estudante de Análise e Desenvolvimento de Sistemas, com experiência em liderança e em metodologias ágeis, ampliando conhecimentos em Python, IA generativa e automação de processos.  
+🤖 Apaixonado por tecnologia, busco criar soluções inovadoras e colaborar em projetos que unam eficiência, segurança e inovação.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas que uso
-
+## 🧰 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-472A91?style=flat&logo=appium&logoColor=white)
-
----
-
-## 🌐 Idiomas
-- 🇷🇹 Português (nativo)  
-- 🇺🇸 Inglês (intermediário)  
-- 🇪🇸 Espanhol (básico)
+![N8N](https://img.shields.io/badge/N8N-EA4C89?style=flat&logo=n8n&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot_Studio-5C2D91?style=flat&logo=microsoft&logoColor=white)
+![Amazon Q](https://img.shields.io/badge/Amazon_Q-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- 🔹 [**automation-rwa**](https://github.com/fernando-gianini/automation-rwa)  
-  Automação de teste funcional em transações bancarias e cadastro de cliente (Cypress)
+- **[Kira_MVP – Assistente Inteligente para Pilotos de Drone](https://github.com/fernando-gianini/kira_MVP)**  
+  Protótipo de assistente de voz para pilotos de drones, com OCR, visão computacional, reconhecimento e síntese de voz, e aprendizado supervisionado. Desenvolvido em Python com OpenAI GPT, Tesseract OCR e integração com sistemas de controle de voo.
 
-- 🔹 [**myDemoApp-mobile-automation**](https://github.com/fernando-gianini/myDemoApp-mobile-automation)  
-  Automação de teste funcioal em cadastro de cliente, teste de navegação, checkout e cadastramento de cliente. (Appium)
+- **[Website Ecogrind](https://github.com/fernando-gianini/page_ecogrind)**  
+  Site institucional criado com ferramentas No Code, focado em agilidade, design responsivo e desempenho.
 
-- 🔹 [**Estudos ao vivo na Twitch**](https://bit.ly/m/ai-nando)  
-  Conteúdo tech com foco em QA, IA e programação. Lives de estudos, projetos open source e interação com a comunidade.  
-  
+- **My-Demo-App-Automation-Mobile (Appium + WebDriverIO)**  
+  Automação de testes mobile com simulação de fluxos de compra, login e navegação, aplicando boas práticas e padrão Page Object Model.
+
 ---
 
-## 🎥 Meu Canal na Twitch
-🎪 [AI! Nando](https://www.twitch.tv/nandogianini)  
-Temas: IA, qualidade de software, automação de testes, carreira tech e vida real!
+## 🌐 Idiomas
+- 🇧🇷 Português (nativo)
+- 🇺🇸 Inglês (técnico)
+- 🇪🇸 Espanhol (básico)
 
 ---
 
@@ -45,4 +41,4 @@ Temas: IA, qualidade de software, automação de testes, carreira tech e vida re
 
 ---
 
-🛠️ Aprendizado contínuo, compartilhamento de conhecimento e colaboração em comunidade são minha base. Bora construir juntos esse universo tech
+🛠️ Sempre aprendendo, inovando e buscando contribuir para projetos que impactem positivamente a tecnologia e as pessoas.
